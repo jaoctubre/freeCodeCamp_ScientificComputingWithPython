@@ -1,4 +1,4 @@
-#Scientific Computing with Python
+# Scientific Computing with Python
 
 This repository consists of my work done for teh completion of the Scientific Computing in Python certification in freeCodeCamp.
 <p align = "center">
